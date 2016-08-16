@@ -25,8 +25,6 @@ class JSONObject(object):
             else:
                 data[key] = value
 
-        print data
-
         if withClass:
             ret = {
                 "CLASS": self.__class__.__name__,
