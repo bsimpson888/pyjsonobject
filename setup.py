@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='pyjsonobject',
-    version='0.9.2',
+    version='0.9.3',
     packages=[''],
     url='',
     license='',
